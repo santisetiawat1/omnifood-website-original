@@ -16,3 +16,6 @@ This project was built as a learning exercise to understand the basics of web de
 
 ## Notes
 This is the original version. A modified version is also available in my repositories.
+
+## Demo
+Live Demo: https://omnifood-original-santi.netlify.app/
